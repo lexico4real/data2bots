@@ -1,5 +1,3 @@
-# data2bots
-
 # Objective
 Write a genertic program that:
 - Reads a JSON file similar to what's present in this location (./data/)
